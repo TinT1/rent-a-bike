@@ -1,3 +1,3 @@
 pwd
-sudo apt-get install wineconsole
+sudo apt-get install wine
 wineconsole 'gradlew.bat'
