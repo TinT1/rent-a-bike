@@ -1,4 +1,6 @@
 language: java
+dist: trusty
+sudo: required
 os:
   - windows
 install: ./NPUJ-RentABike-boot/build.bash
