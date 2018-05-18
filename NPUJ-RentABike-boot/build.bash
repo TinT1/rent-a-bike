@@ -1,0 +1,2 @@
+pwd
+wineconsole 'gradlew.bat'
