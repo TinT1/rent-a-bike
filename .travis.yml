@@ -1,1 +1,4 @@
 language: java
+os:
+  - windows
+install: ./NPUJ-RentABike-boot/gradle.bat
